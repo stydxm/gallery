@@ -3,6 +3,7 @@ languageCode = "zh-cn"
 title = "stydxm的相册"
 theme = "gallery"
 copyright = "如您想要使用本站内容 请与我取得联系"
+timeout = "300s"
 
 [params]
 defaultTheme = "dark"
