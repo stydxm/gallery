@@ -1,10 +1,13 @@
-/.idea
-/.vscode
-/public
-/dist
-node_modules
-nohup.out
-.DS_Store
-trace.out
-.hugo_build.lock
-resources/_gen/images/
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock

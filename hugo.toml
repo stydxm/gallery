@@ -1,0 +1,18 @@
+baseURL = "https://gallery.stydxm.com/"
+languageCode = "zh-cn"
+title = "stydxm的相册"
+theme = "gallery"
+copyright = "如您想要使用本站内容 请与我取得联系"
+
+[params]
+defaultTheme = "dark"
+title = "stydxm的相册"
+[params.socialIcons]
+github = "https://github.com/stydxm"
+email = "mailto:i@stydxm.com"
+
+[menu]
+[[menu.footer]]
+name = "博客主站"
+url = "https://stydxm.com"
+weight = 1
